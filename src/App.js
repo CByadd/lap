@@ -1,10 +1,10 @@
 
-import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-     Srinivash
+    <div className=" text-red-600">
+     <h1 className="text-blue-600">Srinivash</h1>
     </div>
   );
 }
